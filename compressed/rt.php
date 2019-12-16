@@ -3,7 +3,7 @@
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class Rt {
 
@@ -74,7 +74,7 @@ class Rt {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtAction implements RtIAction {
 
@@ -123,7 +123,7 @@ class RtAction implements RtIAction {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtException extends Exception {
     
@@ -133,7 +133,7 @@ class RtException extends Exception {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtHelper {
     const D = "|";
@@ -198,7 +198,7 @@ class RtHelper {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 interface RtIAction {
     public function perform();
@@ -208,7 +208,7 @@ interface RtIAction {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtJSON implements RtIAction {
 
@@ -365,7 +365,7 @@ class RtRouter {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtText implements RtIAction {
 
@@ -387,7 +387,7 @@ class RtText implements RtIAction {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtView implements RtIAction {
 
@@ -530,7 +530,7 @@ class RtXML implements RtIAction {
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtXSLT implements RtIAction {
 

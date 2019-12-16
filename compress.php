@@ -4,7 +4,7 @@
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 /**
  * This script packs Routiny code from /lib directory into one file

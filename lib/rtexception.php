@@ -3,7 +3,7 @@
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 class RtException extends Exception {
     

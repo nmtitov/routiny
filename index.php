@@ -3,7 +3,7 @@
 /**
  * @package Routiny
  * @copyright &copy; 2010
- * @author Nikita Titov <nikita@zencode.ru>
+ * @author Nikita Titov <nmtitov@ya.ru>
  */
 //Use lazy loading with files in /lib directory and 
 //you custom autoload() function with 
